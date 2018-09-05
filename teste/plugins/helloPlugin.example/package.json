@@ -1,0 +1,45 @@
+{
+  "_args": [
+    [
+      "/home/flavio/ADS/5º  Período/P.D.M/cordova/HelloPlugin",
+      "/home/flavio/ADS/5º  Período/P.D.M/cordova/teste"
+    ]
+  ],
+  "_from": "../HelloPlugin",
+  "_id": "helloPlugin.example@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/helloPlugin.example",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": "/home/flavio/ADS/5º  Período/P.D.M/cordova/HelloPlugin",
+    "rawSpec": "/home/flavio/ADS/5º  Período/P.D.M/cordova/HelloPlugin",
+    "scope": null,
+    "spec": "/home/flavio/ADS/5º  Período/P.D.M/cordova/HelloPlugin",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:../HelloPlugin",
+  "_shasum": "8b7c1982a792842e1d0b4bd647668150980d3adf",
+  "_shrinkwrap": null,
+  "_spec": "/home/flavio/ADS/5º  Período/P.D.M/cordova/HelloPlugin",
+  "_where": "/home/flavio/ADS/5º  Período/P.D.M/cordova/teste",
+  "author": "",
+  "cordova": {
+    "id": "helloPlugin.example",
+    "platforms": []
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "license": "ISC",
+  "name": "helloPlugin.example",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.0"
+}

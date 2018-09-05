@@ -1,0 +1,14 @@
+{
+  "name": "helloPlugin.example",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "helloPlugin.example",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
